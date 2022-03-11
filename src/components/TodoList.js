@@ -15,7 +15,7 @@ export default function Todolist() {
 
     }
     const removeTask=id=>{
-        let updatedtasks = [...todos].filter(task => task.id != id)
+        let updatedtasks = [...todos].filter(task => task.id !== id)
         setTodos(updatedtasks)
     }
     
