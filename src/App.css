@@ -29,7 +29,7 @@
 }
 .todoform button {
   padding: 0.5rem 1rem;
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 10px;
   background-color: rgb(241, 245, 248);
   font-weight: 600;
@@ -43,7 +43,7 @@
   border: 1px solid black;
   border-radius: 10px;
   box-shadow: 0.5rem 0.5rem 1rem rgb(45, 45, 46);
-  background-color: rgb(221, 195, 162);
+  background-color: rgb(29, 216, 223);
   padding: 0.5rem;
   display: flex;
   justify-content: space-between;
@@ -64,7 +64,7 @@
 .complete {
   text-decoration: line-through;
   opacity: 0.5;
-  background-color: rgb(10, 240, 125);
+  background-color: rgb(75, 247, 161);
 }
 .hide {
   display: none;
